@@ -114,7 +114,7 @@ function QuizPage() {
             <p className="text-xs font-medium uppercase tracking-[0.2em] text-slate-800">
               Treinamento
             </p>
-            <h1 className="text-2xl font-bold sm:text-3xl text-slate-900">Prova Modulo 1 - Assistme</h1>
+            <h1 className="text-2xl font-bold sm:text-3xl text-slate-900">Prova Modulo 2 - Assistme</h1>
           </div>
         </header>
 
